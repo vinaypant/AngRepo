@@ -1,1 +1,2 @@
 This is the second testing file.
+Changes in file2 for stash 1.
