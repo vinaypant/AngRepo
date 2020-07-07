@@ -20,6 +20,7 @@ export class FirstComponent implements OnInit {
   }
 
   checkIn() {
+    debugger;
     this.myService.authenticate();
     if (this.myService.login()) {
 
